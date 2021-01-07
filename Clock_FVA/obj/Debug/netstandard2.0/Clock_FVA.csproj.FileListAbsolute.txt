@@ -1,0 +1,14 @@
+D:\AndroidAPP\2LAB_FVA\Clock_FVA\Clock_FVA\obj\Debug\netstandard2.0\Clock_FVA.csprojAssemblyReference.cache
+D:\AndroidAPP\2LAB_FVA\Clock_FVA\Clock_FVA\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\AndroidAPP\2LAB_FVA\Clock_FVA\Clock_FVA\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\AndroidAPP\2LAB_FVA\Clock_FVA\Clock_FVA\obj\Debug\netstandard2.0\Clock_FVA.AssemblyInfoInputs.cache
+D:\AndroidAPP\2LAB_FVA\Clock_FVA\Clock_FVA\obj\Debug\netstandard2.0\Clock_FVA.AssemblyInfo.cs
+D:\AndroidAPP\2LAB_FVA\Clock_FVA\Clock_FVA\obj\Debug\netstandard2.0\Clock_FVA.csproj.CoreCompileInputs.cache
+D:\AndroidAPP\2LAB_FVA\Clock_FVA\Clock_FVA\bin\Debug\netstandard2.0\Clock_FVA.deps.json
+D:\AndroidAPP\2LAB_FVA\Clock_FVA\Clock_FVA\bin\Debug\netstandard2.0\Clock_FVA.dll
+D:\AndroidAPP\2LAB_FVA\Clock_FVA\Clock_FVA\bin\Debug\netstandard2.0\ref\Clock_FVA.dll
+D:\AndroidAPP\2LAB_FVA\Clock_FVA\Clock_FVA\bin\Debug\netstandard2.0\Clock_FVA.pdb
+D:\AndroidAPP\2LAB_FVA\Clock_FVA\Clock_FVA\obj\Debug\netstandard2.0\XamlC.stamp
+D:\AndroidAPP\2LAB_FVA\Clock_FVA\Clock_FVA\obj\Debug\netstandard2.0\Clock_FVA.dll
+D:\AndroidAPP\2LAB_FVA\Clock_FVA\Clock_FVA\obj\Debug\netstandard2.0\ref\Clock_FVA.dll
+D:\AndroidAPP\2LAB_FVA\Clock_FVA\Clock_FVA\obj\Debug\netstandard2.0\Clock_FVA.pdb

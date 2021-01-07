@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+vvuxG7smUvH7UA0VT0+qeMmY1dwVuf0ST2KE+a+tIE6jkY9KVr6mvcEM6tCJ2dKL1PmacUGI5VO8Xs8Ujayaw==",
+  "success": true,
+  "projectFilePath": "D:\\AndroidAPP\\2LAB_FVA\\Clock_FVA\\Clock_FVA.iOS\\Clock_FVA.iOS.csproj",
+  "expectedPackageFiles": [
+    "D:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "D:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Clock_FVA.MainPage"
+             Padding="10"
+             SizeChanged="OnPageSizeChanged">
+
+    <StackLayout>
+        <Frame BackgroundColor="Blue" Padding="24" CornerRadius="0">
+            <Label Text="Часы на основе элементов BoxView!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label FontSize="16" Padding="10">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="Приложение сделано по уроку с документации к xamarin в разделе представление данных -> пользовательский интерфейс -> BoxView "/>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+        <AbsoluteLayout x:Name="absoluteLayout"
+                    VerticalOptions="Center" />
+    </StackLayout>
+
+</ContentPage>
